@@ -5,7 +5,7 @@
   },
   "proxies":{
     "/api":{
-      "origin": "https://warbler-server-df.herokuapp.com/"
+      "origin": "https://warbler-server-df.herokuapp.com/api"
     }
   }
 }
